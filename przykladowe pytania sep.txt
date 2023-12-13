@@ -1,0 +1,12 @@
+
+    Co powinna zawierać instrukcja eksploatacji?
+    Jakie osoby mogą być dopuszczone do prac eksploatacyjnych na instalacjach energetycznych?
+    Co to są urządzenia energetyczne?
+    Jakie zagadnienia określa Ustawa Prawo Energetyczne?
+    Jakie informacje techniczne możemy znaleźć na tabliczce znamionowej urządzenia elektrycznego np. silnika elektrycznego?
+    Jakie są podstawowe oznaczenia literowe przewodów, stosowane na schematach elektrycznych?
+    Co obejmuje sieć trakcyjna?
+    Co definiuje pięciokąt wybuchowości pyłu?
+
+8-Ile gniazd wtykowych moze być na jednym obwodzie? ( 10 )
+9-Ile opraw oświetleniowych może być na jednym obwodzie? (20 a świetlówkowe 30)
